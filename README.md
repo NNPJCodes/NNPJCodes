@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently working on my engineering skills
 - ⚡ Fun fact: ... I play with Code, turn to eat alot(Great appetite)😅.
+<!-- 
+![Github stats](https://github-readme-stats.vercel.app/api?username=NNPJCodes&theme=vue&show_icons=true&count_private=true) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NNPJCodes&theme=vue&show_icons=true&count_private=true)
-
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NNPJCodes&layout=compact&hide=html,css&theme=dark)](https://github.com/NNPJCodes/github-readme-stats)
+<!-- [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NNPJCodes&layout=compact&hide=html,css&theme=dark)](https://github.com/NNPJCodes/github-readme-stats)
 
 <h3 align="left">&nbsp;Tools Used:</h3>
 <p align="left">
@@ -81,4 +81,4 @@
       height="40"
     />
   </a>
-</p>
+</p> -->
