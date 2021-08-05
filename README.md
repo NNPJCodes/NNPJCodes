@@ -1,4 +1,4 @@
-### Hi there 👋 am Njoh Noh Prince Junior
+### 👋 Hello, am Njoh Noh Prince Junior a software engineer.
 
 - 🌱 I’m currently working on my engineering skills
 - ⚡ Fun fact: ... I play with Code, turn to eat alot(Great appetite)😅.
